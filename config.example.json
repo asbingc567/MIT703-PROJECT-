@@ -1,0 +1,10 @@
+{
+  "output_dir": "output",
+  "group_by": "course",
+  "output_formats": ["csv", "json", "text"],
+  "join": "left",
+  "include_names": true,
+  "pass_mark": 50,
+  "min_attendance_pct": 80,
+  "filters": {}
+}

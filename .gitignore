@@ -1,0 +1,21 @@
+# Secrets and local settings
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated output and logs
+output/
+*.log
+
+# Real student data must never be committed (only synthetic sample_data/)
+data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

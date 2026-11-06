@@ -1,0 +1,8 @@
+student_id,name,course,exam
+S001,Alex Chen,MIT703,81
+S002,Priya Sharma,MIT703,95
+S003,Liam O'Brien,MIT703,40
+S004,Mei Tanaka,MIT702,74
+S005,Noah Williams,MIT702,49
+S010,=HYPERLINK("http://example.com"),MIT702,58
+S011,Zoe Martin,MIT703,88
